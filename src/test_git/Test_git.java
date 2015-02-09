@@ -18,6 +18,7 @@ public class Test_git {
     public static void main(String[] args) {
         // TODO code application logic here
            System.out.println("hoice");
+          int i=0;
     }
     
 }
